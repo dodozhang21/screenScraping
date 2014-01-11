@@ -13,7 +13,9 @@ Require nodejs
 	> npm install request cheerio requirejs promised-io
 
 Open js and update variables
+
 	> node censusBabyNamesPopularNames.js
 
 Open js file and update variables
+
 	> node censusBabyNamesState.js
