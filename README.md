@@ -2,6 +2,7 @@ screenScraping
 ==============
 
 Blog Entry: http://pure-essence.net/2014/01/11/screen-scraping-census-baby-name-data-with-nodejs-cheeriojquery-and-promises/
+
 Presented at CIJUG 2014 March meeting: http://cijug.net/meeting/2013/12/01/december/
 
 Screen scrape census popular baby names website and generate csv
